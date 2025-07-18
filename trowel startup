@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Trowel Architectural Designs</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #1a1a1a;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .cta {
+      background-color: #e8e8e8;
+      padding: 2rem;
+      text-align: center;
+      margin-top: 2rem;
+      border-radius: 12px;
+    }
+    .cta p {
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+    }
+    a.button {
+      text-decoration: none;
+      color: white;
+      background-color: #333;
+      padding: 0.75rem 1.5rem;
+      border-radius: 5px;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Trowel Architectural Designs</h1>
+    <p>Design and construction since 2011</p>
+  </header>
+
+  <section>
+    <h2>About Ignacio Farm</h2>
+    <p>
+      Ignacio Farm is a private rest villa in Lumban, Laguna—crafted as a modern sanctuary for family leisure, quiet retreats, and intimate gatherings surrounded by nature and serenity.
+    </p>
+
+    <h2>Our Design Philosophy</h2>
+    <p>
+      To design a modern private villa for our client, a close-knit family seeking a peaceful and exclusive retreat in Lumban, Laguna. The project should reflect contemporary comfort while embracing natural surroundings—emphasizing privacy, serenity, and a warm atmosphere ideal for restful stays, family bonding, and intimate celebrations within a thoughtfully designed, nature-integrated space.
+    </p>
+  </section>
+
+  <section class="cta">
+    <p>Discover how thoughtful design transforms space—browse our portfolio, follow us for inspiration, or contact us today.</p>
+    <a href="mailto:youremail@example.com" class="button">Let’s Build Together</a>
+  </section>
+</body>
+</html>
